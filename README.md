@@ -1,13 +1,10 @@
 # Prevoty-Jar-Check
-
 Application to verify and validate the deployed Prevoty JAR files.
 
 # Introduction
-
 This document describes how to validate the Prevoty JAR files, using the tool PrevotyJarVersion.jar.
 
 # Preparations
-
 1. Get a copy of the tool PrevotyJarVersion.jar from the Prevoty Customer Success Portal here
 2. Copy PrevotyJarVersion.jar onto the server running Prevoty
 3. Get a copy of the Prevoty JVM arguments from the same server
@@ -15,7 +12,6 @@ This document describes how to validate the Prevoty JAR files, using the tool Pr
   1. g. /opt/Apache/Tomcat-8.5.5/Prevoty/prevoty-agent.jar
 
 # Execution
-
 1. Log on to the server running Prevoty
 2. Open a terminal
 3. Go into the directory where you have copied PrevotyJarVersion.jar
